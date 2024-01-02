@@ -1,0 +1,65 @@
+<!DOCType html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>MY HOOD</title>
+</head>
+<body>
+	<h1>
+		Hoodtown, USmofoA
+	</h1>
+	<section>
+		<h2>
+			Location
+		</h2>
+		<p>
+			It is CRAZY out here. DO NOT COME. Good food though!
+		</p>
+	</section>
+	<section>
+		<h2>
+			About
+		</h2>
+		<section>
+			<h3>
+				What to do:
+			</h3>
+			<p>
+				Violence mostly.
+			</p>
+		</section>
+		<section>
+			<h3>
+				What to see:
+			</h3>
+			<p>
+				Great christmas parade!
+			</p>
+		</section>
+		<section>
+			<h3>
+				What to eat:
+			</h3>
+			<p>
+				They got a rat here that cooks. It's CRAZY.
+			</p>
+		</section>
+	</section>
+	<section>
+		<h2>
+			Things to Do
+		</h2>
+		<ul>
+			<li>
+				Knit
+			</li>
+			<li>
+				Swing Dance
+			</li>
+			<li>
+				Uncover the lost secrets of the missing moon
+			</li>
+		</ul>
+	</section>
+</body>
+</html>
